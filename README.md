@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kshitij Rao Ranjan<br><br>Full Stack developer | Automation WorkFlows</h1>
-
-###
+<h1 align="center">Hi 👋, I'm Kshitij Rao Ranjan</h1>
+<h3 align="center"> Full-stack developer focused on scalable, clean applications and automation workflows</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kshitijraoranjan/" target="_blank">
@@ -15,10 +14,14 @@
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTLGfFHXBqwGpwcdFgJHrwPDCSZFjKXBCxLvXlqpTDrDltbPHrRTjWdMXCFhmDcBmTMPnB" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=kshitijnew99&label=Profile%20views&color=0e75b6&style=flat" alt="kshitijnew99" /> </p>
 </div>
 
-###
 
+
+
+
+<h3 align="center">Languages and Tools:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
@@ -55,24 +58,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
 </div>
 
-###
 
-<br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kshitijnew99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitijnew99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=kshitijnew99&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-</div>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kshitijnew99&show_icons=true&locale=en" alt="kshitijnew99" /></p>
 
-###
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijnew99&" alt="kshitijnew99" /></p>
 
-<br clear="both">
+<p><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitijnew99&show_icons=true&locale=en&layout=compact" alt="kshitijnew99" /></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kshitijnew99/kshitijnew99/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kshitijnew99/kshitijnew99/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kshitijnew99/kshitijnew99/output/pacman-contribution-graph.svg">
-</picture>
 
-###
+<img 
+  src="https://raw.githubusercontent.com/kshitijnew99/kshitijnew99/output/pacman-contribution-graph-dark.svg"
+  alt="Pacman contribution graph."
+  width="100%" />
+
