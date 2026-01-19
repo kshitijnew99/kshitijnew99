@@ -59,12 +59,32 @@
 </div>
 
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=kshitijnew99&show_icons=true&theme=github_dark&hide_border=true&card_width=420"
+        alt="GitHub stats" />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijnew99&layout=compact&theme=github_dark&hide_border=true"
+        alt="Top languages" />
+    </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kshitijnew99&show_icons=true&locale=en" alt="kshitijnew99" /></p>
+<br/>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijnew99&" alt="kshitijnew99" /></p>
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=kshitijnew99&theme=dark&hide_border=true&ring=58A6FF&fire=F85149&currStreakLabel=58A6FF&v=2"
+    width="860"
+    alt="GitHub streak" />
+</div>
 
-<p><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitijnew99&show_icons=true&locale=en&layout=compact" alt="kshitijnew99" /></p>
+
+
 
 
 <img 
