@@ -14,7 +14,7 @@
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTLGfFHXBqwGpwcdFgJHrwPDCSZFjKXBCxLvXlqpTDrDltbPHrRTjWdMXCFhmDcBmTMPnB" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=kshitijnew99&label=Profile%20views&color=0e75b6&style=flat" alt="kshitijnew99" /> </p>
+  
 </div>
 
 
@@ -72,3 +72,4 @@
   alt="Pacman contribution graph."
   width="100%" />
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kshitijnew99&label=Profile%20views&color=0e75b6&style=flat" alt="kshitijnew99" /> </p>
